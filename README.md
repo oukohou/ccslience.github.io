@@ -1,7 +1,7 @@
 [我的独立博客](http://www.oukohou.wang/)
 =================================
 
-一个简洁的、多设备支持的 Jekyll 博客模板，用于搭建[我的独立博客](http://www.ccslience.oukohou.wang/)。主题基于 [maupassant-jekyll](https://github.com/alafighting/maupassant-jekyll.git) 重新修改和优化，
+一个简洁的、多设备支持的 Jekyll 博客模板，用于搭建[我的独立博客](http://ccslience.oukohou.wang/)。主题基于 [maupassant-jekyll](https://github.com/alafighting/maupassant-jekyll.git) 重新修改和优化，
 同时很大程度上参考了[oukohou](https://github.com/oukohou)的[博客主题](https://github.com/oukohou/oukohou.github.io)，感谢。
 模板预览：
 
