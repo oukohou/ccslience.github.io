@@ -1,4 +1,4 @@
-[我的独立博客](http://www.oukohou.wang/)
+[我的独立博客](http://ccslience.oukohou.wang/)
 =================================
 
 一个简洁的、多设备支持的 Jekyll 博客模板，用于搭建[我的独立博客](http://ccslience.oukohou.wang/)。主题基于 [maupassant-jekyll](https://github.com/alafighting/maupassant-jekyll.git) 重新修改和优化，
@@ -33,18 +33,18 @@ jekyll build
 jekyll server
 ```
 
-## Maupassant 在不同框架下的支持
+## A note:
+Note that several html,txt files in root dir:  
+-  60e2c4178f1d12527f7e5b00a80d0f2f.txt  
+- baidu_verify_mDTcGWbBLX.html  
+- google23b03f783980f31a.html  
+- sogousiteverification.txt  
+These files are for verifications of 360, google, baidu and sougou.
+Such that these search engine will index my blog site.  
+These files vary from one to one. Remember to change accordingly for your own site.  
+**See [oukohou](https://www.oukohou.wang/)'s [this blog](https://www.oukohou.wang/2018/11/01/sereral_search_engines_urls/) for details.**
 
-Maupassant 最初是由 [Cho](https://github.com/pagecho/) 大神为 [Typecho](http://typecho.org/) 平台设计开发的一套响应式模板，体积只有20KB，在各种尺寸的设备上表现出色。由于其简洁大气的风格受到许多用户喜爱，目前也已经被移植到了多个平台上，例如：
-
-+ Typecho：https://github.com/pagecho/maupassant/
-+ Octopress：https://github.com/pagecho/mewpassant/
-+ Farbox：https://github.com/pagecho/Maupassant-farbox/
-+ Wordpress：https://github.com/iMuFeng/maupassant/
-+ Hexo: https://github.com/icylogic/maupassant-hexo/
-+ Ghost: https://github.com/LjxPrime/maupassant/
-+ Jekyll: https://github.com/alafighting/maupassant-jekyll/
-
+**Any star, fork or [donation]() is highly appreciated!!!**  
 ------
-ccslience(<oukohou@outlook.com>)
+ccslience
 2018-10-25
