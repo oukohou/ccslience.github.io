@@ -75,18 +75,20 @@ links: # 友情链接
 
 # Google Analytics
 ga_track_id: 'UA-126058460-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: www.ccslience.oukohou.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 130527c08d8ef45bb5dc                            #生成的clientID
-  clientSecret: c8c0726a177a1265fdec64a66626592757a9df8a    #生成的clientSecret
-  repo: kohouwang.github.io    #仓库名称
-  owner: kohouwang    #github用户名
-  admin: kohouwang
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  pagerDirection: first
+# Valine settings.
+valine:
+  enable: true
+  app_id:  259mVn1W4109smfktjL08NJQ-gzGzoHsz
+  app_key: JiehnrXtKpSjfIhnTkTOliSg
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  visitor: true
+  avatar: retro
+  placeholder: say something~~\n - 昵称 为你所要显示的评论的ID；\n - 邮箱 只有后台可见，仅供讨论过程中是否需要交流邮件而设置，请放心填写;\n - 网址 为你的评论的昵称的超链接。\n当然，以上都可以不写，评论依然会显示……
+  guest_info: nick,mail,link
+  pageSize: 10
 
 
 # Code hub settings
