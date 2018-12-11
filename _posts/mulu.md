@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "2018-12-12-mulu"
-date:   "2018-12-12 01:19:02" +0800 --
-categories: [这里写类别目录, 以逗号分割]
-tags: [这里写标签，以逗号分割]  
+date:   2018-12-12 01:19:0 +0800 --
+categories: [test]
+tags: [play,angry]  
 ---
 # 欢迎使用马克飞象
 
